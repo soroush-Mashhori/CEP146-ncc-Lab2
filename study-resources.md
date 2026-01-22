@@ -18,4 +18,4 @@
 |-----|--------|------|
 | Friday | Git and GitHub | 10:00 AM |
 | Wednesday | Markdown Practice | 2:00 PM |
-8
+
